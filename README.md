@@ -186,13 +186,3 @@ Containerized MERN application deployed using Kubernetes architecture.
 </p>
 
 ---
-
-# 🔥 Current Focus
-
-```bash
-✔ MERN Stack Development
-✔ Docker & Kubernetes
-✔ CI/CD Pipelines
-✔ Cloud Deployment
-✔ Backend Optimization
-✔ Scalable REST APIs
